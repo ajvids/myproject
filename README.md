@@ -1,3 +1,1 @@
-# myproject
-This is a project created by aj vids
-hjnkbhkbhkb
+this is a new file
